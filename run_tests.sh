@@ -12,4 +12,3 @@ for test_script in *.sh; do
 done
 
 echo "Все тесты завершены."
-
